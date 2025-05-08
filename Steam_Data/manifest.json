@@ -1,0 +1,13 @@
+{
+  "Name": "AllDayLight",
+  "Version": "1.0",
+  "Id": "AllDayLight",
+  "MinimumGameVersion": "0.6.0.0",
+  "Description": "Removes light changes (does NOT affect day-night cycle).\nRequires Harmony: https://steamcommunity.com/sharedfiles/filedetails/?id=3284904751&searchtext=harmony\nRepository: https://github.com/shiroto/Timberborn_AllDayLight",
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinimumVersion": "2.3.3"
+    }
+  ]
+}
